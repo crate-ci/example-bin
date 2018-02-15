@@ -1,6 +1,6 @@
 example-bin
 [![Travis Status](https://travis-ci.org/crate-ci/example-bin.svg?branch=master)](https://travis-ci.org/crate-ci/example-bin)
-[![Appveyor Status](https://ci.appveyor.com/api/projects/status/8w3m1awufpjyvpbo/branch/master?svg=true)](https://ci.appveyor.com/project/epage/example-bin/branch/master)
+[![Appveyor Status](https://ci.appveyor.com/api/projects/status/27jbg88g4qnevp9x/branch/master?svg=true)](https://ci.appveyor.com/project/epage/example-bin/branch/master)
 [![Dependency Status](https://dependencyci.com/github/crate-ci/example-bin/badge)](https://dependencyci.com/github/crate-ci/example-bin)
 ===========
 

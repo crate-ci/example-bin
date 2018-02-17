@@ -2,6 +2,7 @@ example-bin
 [![Travis Status](https://travis-ci.org/crate-ci/example-bin.svg?branch=master)](https://travis-ci.org/crate-ci/example-bin)
 [![Appveyor Status](https://ci.appveyor.com/api/projects/status/27jbg88g4qnevp9x/branch/master?svg=true)](https://ci.appveyor.com/project/epage/example-bin/branch/master)
 [![Dependency Status](https://dependencyci.com/github/crate-ci/example-bin/badge)](https://dependencyci.com/github/crate-ci/example-bin)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/crate-ci/general)
 ===========
 
 ## Features

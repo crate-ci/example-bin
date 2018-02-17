@@ -13,13 +13,11 @@ example-bin
 
 Note: this repo is configured to build on a schedule to prevent it from going stale
 - TravisCI: Once a month unless there was a build in the last 24 hours
-- Appveyor: Once a month: `0 0 1 * *`
 
 ## Requirements
 
 - Your crate must be hosted on GitHub (free).
 - A [Travis CI](https://travis-ci.org/) account (free).
-- An [AppVeyor](https://www.appveyor.com/) account (free).
 
 ## License
 

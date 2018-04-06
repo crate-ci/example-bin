@@ -39,7 +39,7 @@ install:
 - cargo -V
 
 test_script:
-- cargo check --verbose
+- cargo check --verbose  # Ensure `bin` compiles
 - cargo test --verbose
 
 cache:

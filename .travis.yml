@@ -6,9 +6,10 @@ rust:
 - beta
 - nightly
 
-install:
-- rustc -Vv
-- cargo -V
+os:
+- linux
+- osx
+- windows
 
 script:
 - cargo check --verbose  # Ensure `bin` compiles
